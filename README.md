@@ -9,7 +9,7 @@ Lo mío son los ordenadores y las redes, alegre y siempre mirando al futuro. He 
 - 🌱 Siempre abierto a nuevas posibilidades  
   
 
--      🌍 Murcia, España  
+- 🌍 Murcia, España  
   
 
 - ⚡ Fun fact: Cuando estoy pensando, nadie me saca  
