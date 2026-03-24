@@ -52,8 +52,3 @@ Lo mío son los ordenadores y las redes, alegre y siempre mirando al futuro. He 
 
 ### Visitantes  
 ![Profile views counter](https://komarev.com/ghpvc/?username=Aaron-LoPe&&style=flat-square)  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
